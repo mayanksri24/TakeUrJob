@@ -599,26 +599,6 @@ The project is designed to demonstrate **end-to-end MERN Stack development**, fr
 
 ---
 
-# 📸 Screenshots
-
-Add updated **TakeUrJob screenshots** here after the frontend redesign.
-
-Recommended screenshots:
-
-| Page | Screenshot |
-|---|---|
-| TakeUrJob Home | Add screenshot |
-| Find Jobs | Add screenshot |
-| Job Details | Add screenshot |
-| Job Seeker Dashboard | Add screenshot |
-| Employer Dashboard | Add screenshot |
-| Job Management | Add screenshot |
-| Applicant Management | Add screenshot |
-| Profile | Add screenshot |
-| Saved Jobs | Add screenshot |
-
----
-
 # 🔗 Repository
 
 ### GitHub
